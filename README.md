@@ -76,7 +76,7 @@ home.html
                 <div class="content">
                     <div class="text">
                     <marquee><b> Good Quality Things</b></marquee>
-                    <p style="color:purple; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Sorts Company</p>
+                    <p style="color:purple; font-family:'Tahoma'; font-size:20px;"> This is the Official Website of our Steel Company</p>
                     </div>
                     <p>Buy sports items <span style="background-color:lime">Mounish Steel City</span>
                          Buy stainless steel,thick steel,less weight steel in online | All Brands are available| And much more</p>
@@ -876,9 +876,9 @@ home{
 
         }
 ```
-        
+
 ## OUTPUT:
-![output](./mounish.jpg)
+![output](./mounish1.jpg)
 ![output](./mounish2.png)
 ![output](./mounish3.png)
 ![output](./mounish4.jpg)
